@@ -897,6 +897,23 @@ nav .menu li.active:hover a {
   background-image: url("../images/privacy_caption_touch_id.png");
 }
 
+/* Accessibility */
+.accessibility {
+  margin-top: 266px;
+  margin-bottom: 170px;
+}
+.accessibility h1 {
+  width: 384px;
+  height: 270px;
+  background-image: url("../images/accessibility_headline.png");
+}
+.accessibility .infos {
+  margin-top: 20px;
+}
+.accessibility figure {
+  transform: translate(470px, -620px);
+}
+
 
 
 
